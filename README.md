@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @Wolferxyz e meu nome é Thiago Rodrigues
 - 👀 Estou interessado em Linguagens de programação
-- 🌱 Atualmente estou aprendendo PHP
+- 🌱 Atualmente estou aprendendo Lógica de Programação
 - 💞️ No momento ainda estou aprendendo sobre as linguagens mas em breve espero poder colaborar com a comunidade
 - 📫 Contato por email: thiagorodriguess.2999@gmail.com
 
